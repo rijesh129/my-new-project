@@ -1,5 +1,3 @@
-Project Title
-
 AdVision AI
 
 Building AI course project
