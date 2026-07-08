@@ -1,12 +1,12 @@
-AdVision AI
+# AdVision AI
 
-Building AI course project
+ Building AI course project
 
-Summary
+## Summary
 
 AdVision AI is an AI-powered assistant that helps businesses and advertising agencies create creative advertising campaigns. It generates campaign ideas, storyboards, social media content, slogans, and video concepts based on the client's industry and marketing goals, making creative work faster and more efficient.
 
-Background
+## Background
 
 Many small businesses cannot afford professional advertising agencies or creative directors. As a result, they struggle to produce engaging marketing campaigns.
 
@@ -21,7 +21,7 @@ Difficulty creating content for multiple platforms
 
 As someone interested in filmmaking and advertising, I want to use AI to help creative professionals work faster while still allowing human creativity to lead the process.
 
-How is it used?
+## How is it used?
 
 The user enters information such as:
 
@@ -48,7 +48,7 @@ Marketing teams
 Freelancers
 Small business owners
 Content creators
-Data sources and AI methods
+## Data sources and AI methods
 
 Possible data sources:
 
@@ -65,7 +65,7 @@ Natural Language Processing (NLP)
 Image Generation
 Recommendation Systems
 Generative AI
-Challenges
+## Challenges
 
 The system cannot fully replace experienced creative directors.
 
@@ -75,7 +75,7 @@ AI may generate repetitive ideas.
 Human review is always needed.
 Copyright and ethical issues must be considered.
 AI cannot always understand cultural context perfectly.
-What next?
+## What next?
 
 Future improvements could include:
 
@@ -85,7 +85,7 @@ Voice-over creation
 Brand style learning
 Multi-language support
 Integration with Canva and Adobe Creative Cloud
-Acknowledgments
+## Acknowledgments
 Elements of AI – University of Helsinki & Reaktor
 OpenAI
 Public marketing and advertising research
